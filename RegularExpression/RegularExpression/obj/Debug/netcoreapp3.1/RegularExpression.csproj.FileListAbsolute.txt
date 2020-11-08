@@ -1,0 +1,13 @@
+E:\2 КУРС\ЯП\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.1\RegularExpression.exe
+E:\2 КУРС\ЯП\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.1\RegularExpression.deps.json
+E:\2 КУРС\ЯП\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.1\RegularExpression.runtimeconfig.json
+E:\2 КУРС\ЯП\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.1\RegularExpression.runtimeconfig.dev.json
+E:\2 КУРС\ЯП\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.1\RegularExpression.dll
+E:\2 КУРС\ЯП\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.1\RegularExpression.pdb
+E:\2 КУРС\ЯП\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.1\RegularExpression.csprojAssemblyReference.cache
+E:\2 КУРС\ЯП\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.1\RegularExpression.csproj.CoreCompileInputs.cache
+E:\2 КУРС\ЯП\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.1\RegularExpression.AssemblyInfoInputs.cache
+E:\2 КУРС\ЯП\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.1\RegularExpression.AssemblyInfo.cs
+E:\2 КУРС\ЯП\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.1\RegularExpression.dll
+E:\2 КУРС\ЯП\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.1\RegularExpression.pdb
+E:\2 КУРС\ЯП\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.1\RegularExpression.genruntimeconfig.cache
