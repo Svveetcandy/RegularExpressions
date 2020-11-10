@@ -27,7 +27,7 @@ namespace RegularExpression
             
             List<int> locationOfWord;
 
-            Regex reg = new Regex(@"[^\W\d](\w|[-']{1,2}(?=\w))*");
+            Regex reg = new Regex(@"\b\w+\b");
             int numOfLine = 1, numOfPage = 1;
             using (StreamReader sr = new StreamReader(textFile, Encoding.Default))
             {
